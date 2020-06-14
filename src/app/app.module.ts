@@ -23,6 +23,7 @@ import {
 } from '@agm/core';
 import { AdminLayoutComponent } from './layouts/admin-layout/admin-layout.component';
 import { HomeComponent } from './home/home.component';
+import { SoorajComponent } from './sooraj/sooraj.component';
 
 @NgModule({
   imports: [
@@ -40,7 +41,7 @@ import { HomeComponent } from './home/home.component';
   declarations: [
     AppComponent,
     AdminLayoutComponent,
-    HomeComponent,
+    
 
   ],
   providers: [],
