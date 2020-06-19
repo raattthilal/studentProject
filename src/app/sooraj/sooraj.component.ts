@@ -9,6 +9,7 @@ export class SoorajComponent implements OnInit {
   constructor() { }
    username;
    password;
+   name;
   
   ngOnInit() {
   }
